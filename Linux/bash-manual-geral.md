@@ -28,7 +28,7 @@ De agora em diante, vamos nos referir a um 'Full Command' simplesmente como 'Com
 
 `ls -al`
 
-`clear` -> clear the terminal
+`clear` -> limpar terminal
 
 ## 3. Encontrando ajuda para comandos
 
@@ -73,7 +73,7 @@ Deve encontrar se o termo pesquisado corresponder a alguma descrição de opçã
 | (seta para cima/baixo)    | Exibe comandos anteriores                |
 | CRTL + R                  | Pesquisar no histórico de comandos       |
 | CRTL + C                  | Cancelar comando                         |
-| CRTL + L                  | Clear the terminal                       |
+| CRTL + L                  | Limpar terminal                       |
 
 ## 5. Sistema de Arquivos
 
